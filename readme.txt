@@ -3,7 +3,7 @@
 Author: travisvinson
 Tags: duplicate, duplicate posts, database, post erazer, post eraser, posts eraser, posts erazer, autoblog, auto blog, autoblogging, auto blogging , delete post , delete duplicate posts
 Requires at least: 2.8
-Tested up to: 3.4
+Tested up to: 3.4.1
 Stable tag: 1.0
 
 This plugin prevents duplicate posts to be published, especially when running autoblogs.
@@ -11,6 +11,8 @@ This plugin prevents duplicate posts to be published, especially when running au
 == Description ==
 
 This plugin prevents duplicate posts to be published, especially when running autoblogs.
+
+http://mesotheliomatreatmentoptions.biz/delete-all-duplicate-posts-9/
 
 
 
