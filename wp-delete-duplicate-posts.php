@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Delete all duplicate posts
-Plugin URI: http://mesotheliomatreatmentoptions.biz/delete-all-duplicate-posts-9/
+Plugin URI: 
 Description: Deletes duplicate posts based on their title
-Author: travisvinson
-Version: 1.0
-Author URI: http://mesotheliomatreatmentoptions.biz/delete-all-duplicate-posts-9/
+Author: podz
+Version: 2.0
+Author URI:
 */
 function WPDeleteDuplicatePosts(){
 	global $wpduplicate;
